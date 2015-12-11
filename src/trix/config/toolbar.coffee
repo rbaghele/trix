@@ -10,6 +10,7 @@ Trix.config.toolbar =
         <button type="button" class="strike" data-attribute="strike" title="#{lang.strike}">#{lang.strike}</button>
         <button type="button" class="link" data-attribute="href" data-action="link" data-key="k" title="#{lang.link}">#{lang.link}</button>
         <button type="button" class="heading" data-attribute="heading" data-action="heading" title="#{lang.heading}">#{lang.heading}</button>
+        <button type="button" class="subHeading" data-attribute="subHeading" data-action="subHeading" title="#{lang.subHeading}">#{lang.subHeading}</button>
       </span>
 
       <span class="button_group block_tools">

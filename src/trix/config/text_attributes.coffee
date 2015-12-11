@@ -24,5 +24,8 @@ Trix.config.textAttributes =
   heading:
     tagName: "h1"
     inheritable: true
+  subHeading:
+    tagName: "h2"
+    inheritable: true
   frozen:
     style: { "backgroundColor": "highlight" }
